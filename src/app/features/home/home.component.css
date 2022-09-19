@@ -1,0 +1,7 @@
+.container {
+    background-color: #581845;
+}
+
+:root {
+    --text-color: #fff !important;
+}
